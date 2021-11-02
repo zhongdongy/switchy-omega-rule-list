@@ -61,6 +61,7 @@
 *.dotomi.com
 *.dreamhost.com
 *.dropbox.com
+*.duckduckgo.com
 *.duolingo.com
 *.eu.org
 *.evernote.com
@@ -76,6 +77,7 @@
 *.forzamotorsport.net
 *.geeksforgeeks.org
 *.gfycat.com
+*.ggpht.com
 *.githubapp.com
 *.githubassets.com
 *.githubusercontent.com
@@ -91,13 +93,17 @@
 *.godaddy.com
 *.google.com
 *.googlecode.com
+*.googlevideo.com
+*.gravatar.com
 *.gstatic.com
 *.gwallet.com
 *.harry.lu
+*.hcaptcha.com
 *.here.com
 *.hereapi.com
 *.hostgator.com
 *.ieee.org
+*.imgur.com
 *.incident57.com
 *.intercom.io
 *.intercomcdn.io
@@ -179,6 +185,7 @@
 *.reddit.com
 *.redditmedia.com
 *.redditstatic.com
+*.replit.com
 *.rlcdn.com
 *.sail-personalize.com
 *.sci-hub.tw
@@ -243,4 +250,9 @@
 *.xbox.com
 *.xm1math.net
 *.yandex.ru
+*.youtube.com
+*.ytimg.com
 *.zendesk.com
+
+# Ignore the following
+!*.xunlei.com
