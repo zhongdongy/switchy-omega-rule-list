@@ -254,5 +254,5 @@
 *.ytimg.com
 *.zendesk.com
 
-# Ignore the following
+; Ignore the following
 !*.xunlei.com
