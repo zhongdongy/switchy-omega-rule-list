@@ -81,11 +81,12 @@
 *.githubapp.com
 *.githubassets.com
 *.githubusercontent.com
-*.github.io
+*.github.blog
 *.github.com
 *.github.community
 *.gitlab.com
 *.gitlab.net
+*.github.io
 *.gitlab-static.net
 *.gmail.com
 *.googleapis.com
