@@ -124,6 +124,7 @@
 *.listary.com
 *.litix.io
 *.live.com
+*.logitech.com
 *.lucidchart.com
 *.lync.com
 *.macpaw.com
@@ -253,7 +254,5 @@
 *.yandex.ru
 *.youtube.com
 *.ytimg.com
+*.zdassets.com
 *.zendesk.com
-
-; Ignore the following
-!*.xunlei.com
