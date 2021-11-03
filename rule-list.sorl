@@ -33,6 +33,7 @@
 *.azure.net
 *.betrad.com
 *.bintray.com
+*.blender.org
 *.bluehost.com
 *.bluestacks.com
 *.bootstrapcdn.com
@@ -96,6 +97,7 @@
 *.godaddy.com
 *.google.com
 *.googlecode.com
+*.googleusercontent.com
 *.googlevideo.com
 *.gravatar.com
 *.gstatic.com
@@ -126,6 +128,7 @@
 *.listary.com
 *.litix.io
 *.live.com
+*.logitech.com
 *.lucidchart.com
 *.lync.com
 *.macpaw.com
@@ -255,7 +258,5 @@
 *.yandex.ru
 *.youtube.com
 *.ytimg.com
+*.zdassets.com
 *.zendesk.com
-
-; Ignore the following
-!*.xunlei.com
