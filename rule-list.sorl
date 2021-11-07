@@ -94,13 +94,14 @@
 *.github.io
 *.gitlab-static.net
 *.gmail.com
-*.googleapis.com
-*.gov.hk
 *.godaddy.com
+*.googleapis.com
 *.google.com
+*.google-analytics.com
 *.googlecode.com
 *.googleusercontent.com
 *.googlevideo.com
+*.gov.hk
 *.gravatar.com
 *.gstatic.com
 *.gwallet.com
@@ -190,6 +191,7 @@
 *.rarbg.to
 *.rarbg.me
 *.rarbgaccess.org
+*.rawgit.com
 *.redd.it
 *.reddit.com
 *.redditmedia.com
@@ -227,6 +229,7 @@
 *.torproject.org
 *.trello.com
 *.trellocdn.com
+*.tutorialspoint.com
 *.typora.io
 *.typekit.net
 *.ubearcn.com
