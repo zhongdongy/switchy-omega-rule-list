@@ -43,12 +43,13 @@
 *.ccat.xyz
 *.chocolatey.org
 *.clrstm.com
+*.cloudfront.net
+*.cloudflare.com
 *.codekitapp.com
 *.codex.net
 *.coggle.it
 *.coppersurfer.tk
 *.coursera.org
-*.cloudfront.net
 *.cplusplus.com
 *.cppreference.com
 *.crashlytics.com
@@ -71,6 +72,7 @@
 *.explodie.org
 *.expressvpn.xyz
 *.expressvpn.com
+*.facebook.com
 *.fastly.com
 *.fastly.net
 *.fastspring.com
@@ -150,6 +152,7 @@
 *.myfonts.net
 *.nbcnews.com
 *.netflix.com
+*.netlify.app
 *.noip.com
 *.notion.so
 *.npmjs.com
@@ -260,3 +263,4 @@
 *.ytimg.com
 *.zdassets.com
 *.zendesk.com
+*.zorincdn.com
