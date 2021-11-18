@@ -65,7 +65,9 @@
 *.devmate.com
 *.dictionary.com
 *.discourse-cdn.com
+*.dlsite.com
 *.dotomi.com
+*.doubleclick.net
 *.dreamhost.com
 *.dropbox.com
 *.duckduckgo.com
@@ -76,6 +78,7 @@
 *.explodie.org
 *.expressvpn.com
 *.expressvpn.xyz
+*.f-droid.org
 *.facebook.com
 *.fastly.com
 *.fastly.net
@@ -101,8 +104,11 @@
 *.godaddy.com
 *.google-analytics.com
 *.google.com
+*.google.com.hk
+*.googleadservices.com
 *.googleapis.com
 *.googlecode.com
+*.googletagmanager.com
 *.googleusercontent.com
 *.googlevideo.com
 *.gov.hk
@@ -111,10 +117,13 @@
 *.gwallet.com
 *.harry.lu
 *.hcaptcha.com
+*.hdslb.com
 *.here.com
 *.hereapi.com
 *.hostgator.com
+*.i-mobile.co.jp
 *.ieee.org
+*.im-apps.net
 *.imagecurl.com
 *.imdb.com
 *.imgur.com
@@ -143,6 +152,7 @@
 *.lync.com
 *.macpaw.com
 *.mailu.io
+*.manichord.com
 *.mathworks.com
 *.media.net
 *.medium.com
@@ -162,6 +172,8 @@
 *.nbcnews.com
 *.netflix.com
 *.netlify.app
+*.nicovideo.jp
+*.nimg.jp
 *.noip.com
 *.notion.so
 *.notionavatars.com
@@ -169,6 +181,7 @@
 *.nr-data.net
 *.nuxeo.org
 *.obdev.at
+*.obsidian.md
 *.odysee.com
 *.office.com
 *.office.net
@@ -190,6 +203,7 @@
 *.pomf.se
 *.popcorntime.io
 *.popcorntime.sh
+*.pornhub.com
 *.postgresql.org
 *.producthunt.com
 *.pub.dev
@@ -243,6 +257,8 @@
 *.trello.com
 *.trellocdn.com
 *.tutorialspoint.com
+*.twimg.com
+*.twitter.com
 *.typekit.net
 *.typora.io
 *.ubearcn.com
@@ -273,7 +289,9 @@
 *.wp.com
 *.xbox.com
 *.xm1math.net
+*.yahoo.co.jp
 *.yandex.ru
+*.yjsnpi.nu
 *.youtube.com
 *.ytimg.com
 *.zdassets.com
