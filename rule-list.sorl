@@ -70,6 +70,9 @@
 *.desync.com
 *.devmate.com
 *.dictionary.com
+*.discord.com
+*.discordapp.com
+*.discordapp.net
 *.discourse-cdn.com
 *.dlsite.com
 *.dotomi.com
@@ -86,6 +89,7 @@
 *.expressvpn.xyz
 *.f-droid.org
 *.facebook.com
+*.facebook.net
 *.fastly.com
 *.fastly.net
 *.fastspring.com
@@ -208,6 +212,7 @@
 *.opensips.org
 *.opentrackr.org
 *.overleaf.com
+*.oxfordlearnersdictionaries.com
 *.paragon-software.com
 *.parallels.com
 *.phncdn.com
@@ -248,6 +253,7 @@
 *.sci-hub.tw
 *.scoop.sh
 *.setapp.com
+*.sharepointonline.com
 *.skyfonts.com
 *.skype.com
 *.slack.com
