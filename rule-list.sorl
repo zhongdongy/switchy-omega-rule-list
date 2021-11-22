@@ -28,6 +28,7 @@
 *.app.link
 *.appspot.com
 *.arcgis.com
+*.archive.org
 *.arenabg.com
 *.azure.com
 *.azure.net
@@ -42,13 +43,16 @@
 *.brew.sh
 *.calhoun.io
 *.ccat.xyz
+*.cdnfonts.com
 *.chocolatey.org
+*.chrisk91.me
 *.cloudflare.com
 *.cloudfront.net
 *.clrstm.com
 *.codekitapp.com
 *.codex.net
 *.coggle.it
+*.cookielaw.org
 *.coppersurfer.tk
 *.coursera.org
 *.cplusplus.com
@@ -58,6 +62,7 @@
 *.ctan.org
 *.cvbox.org
 *.cyberia.is
+*.davidwalsh.name
 *.dbs.com
 *.demdex.net
 *.demonii.si
@@ -130,8 +135,11 @@
 *.imdb.com
 *.imgur.com
 *.incident57.com
+*.instagram.com
+*.intel.com
 *.intercom.io
 *.intercomcdn.io
+*.iosninja.io
 *.itzmx.com
 *.jetbrains.com
 *.jhu.edu
@@ -139,6 +147,7 @@
 *.jsfiddle.net
 *.juno.sh
 *.justmysocks.net
+*.kde.org
 *.kopernio.com
 *.kxcdn.com
 *.lanta-net.ru
@@ -177,12 +186,14 @@
 *.netlify.app
 *.nicovideo.jp
 *.nimg.jp
+*.nocookie.net
 *.noip.com
 *.notion.so
 *.notionavatars.com
 *.npmjs.com
 *.nr-data.net
 *.nuxeo.org
+*.nvidia.com
 *.obdev.at
 *.obsidian.md
 *.odysee.com
@@ -190,6 +201,7 @@
 *.office.net
 *.office365.com
 *.omnigroup.com
+*.onestore.ms
 *.onetrust.com
 *.openbittorrent.com
 *.opengapps.org
@@ -200,6 +212,8 @@
 *.parallels.com
 *.phncdn.com
 *.phprcdn.com
+*.pinimg.com
+*.pinterest.com
 *.pixabay.com
 *.plex.tv
 *.plot.ly
@@ -225,8 +239,10 @@
 *.reddit.com
 *.redditmedia.com
 *.redditstatic.com
+*.reeder.app
 *.replit.com
 *.rlcdn.com
+*.s-microsoft.com
 *.s-nbcnews.com
 *.sail-personalize.com
 *.sci-hub.tw
@@ -242,6 +258,7 @@
 *.stealth.si
 *.straitstimes.com
 *.strawberryperl.com
+*.stripe.com
 *.swagger.io
 *.tapad.com
 *.teamgantt.com
@@ -268,6 +285,7 @@
 *.ubearcn.com
 *.udemy.com
 *.udemycdn.com
+*.unlockboot.com
 *.unpkg.com
 *.upeer.me
 *.utorrent.com
