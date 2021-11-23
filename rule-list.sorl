@@ -30,6 +30,7 @@
 *.arcgis.com
 *.archive.org
 *.arenabg.com
+*.arkoselabs.com
 *.azure.com
 *.azure.net
 *.behance.net
@@ -79,11 +80,14 @@
 *.doubleclick.net
 *.dreamhost.com
 *.dropbox.com
+*.dropboxstatic.com
+*.dropboxusercontent.com
 *.duckduckgo.com
 *.duolingo.com
 *.dyncdn.me
 *.eu.org
 *.evernote.com
+*.evidon.com
 *.explodie.org
 *.expressvpn.com
 *.expressvpn.xyz
@@ -94,6 +98,7 @@
 *.fastly.net
 *.fastspring.com
 *.feedly.com
+*.figma.com
 *.firefox.com
 *.flutter.io
 *.forzamotorsport.net
@@ -183,6 +188,7 @@
 *.mozilla.net
 *.mozilla.org
 *.msauth.net
+*.msecnd.net
 *.msocdn.com
 *.myfonts.net
 *.nbcnews.com
@@ -247,6 +253,7 @@
 *.reeder.app
 *.replit.com
 *.rlcdn.com
+*.rsms.me
 *.s-microsoft.com
 *.s-nbcnews.com
 *.sail-personalize.com
