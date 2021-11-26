@@ -44,12 +44,14 @@
 *.calhoun.io
 *.ccat.xyz
 *.cdnfonts.com
+*.cdninstagram.com
 *.chocolatey.org
 *.chrisk91.me
 *.cloudflare.com
 *.cloudfront.net
 *.clrstm.com
 *.codekitapp.com
+*.codepen.io
 *.codex.net
 *.coggle.it
 *.cookielaw.org
@@ -74,6 +76,8 @@
 *.discordapp.com
 *.discordapp.net
 *.discourse-cdn.com
+*.disqus.com
+*.disquscdn.com
 *.dlsite.com
 *.dotomi.com
 *.doubleclick.net
@@ -82,6 +86,7 @@
 *.duckduckgo.com
 *.duolingo.com
 *.dyncdn.me
+*.eagle.cool
 *.eu.org
 *.evernote.com
 *.explodie.org
@@ -93,7 +98,9 @@
 *.fastly.com
 *.fastly.net
 *.fastspring.com
+*.fbcdn.net
 *.feedly.com
+*.figma.com
 *.firefox.com
 *.flutter.io
 *.forzamotorsport.net
@@ -133,6 +140,7 @@
 *.hostgator.com
 *.i-mobile.co.jp
 *.ibb.co
+*.icons8.com
 *.ieee.org
 *.im-apps.net
 *.imagecurl.com
@@ -157,6 +165,7 @@
 *.lanta-net.ru
 *.lbry.org
 *.leechers-paradise.org
+*.leetcode.com
 *.licdn.com
 *.lineageos.org
 *.linphone.org
@@ -205,6 +214,7 @@
 *.office.net
 *.office365.com
 *.omnigroup.com
+*.onemathematicalcat.org
 *.onestore.ms
 *.onetrust.com
 *.openbittorrent.com
@@ -240,6 +250,7 @@
 *.rarbg.to
 *.rarbgaccess.org
 *.rawgit.com
+*.readthedocs.org
 *.redd.it
 *.reddit.com
 *.redditmedia.com
@@ -247,6 +258,7 @@
 *.reeder.app
 *.replit.com
 *.rlcdn.com
+*.rsms.me
 *.s-microsoft.com
 *.s-nbcnews.com
 *.sail-personalize.com
@@ -271,16 +283,19 @@
 *.teamviewer.com
 *.tensorflow.org
 *.termius.com
+*.texdoc.org
 *.texpad.com
 *.texpadapp.com
 *.texstudio.org
 *.thebrain.com
+*.themovieblog.com
 *.thepirate-bay3.org
 *.thepiratebay.org
 *.ticketplus.tk
 *.tiny-vps.com
 *.tivpn.com
 *.torproject.org
+*.transfonter.org
 *.trello.com
 *.trellocdn.com
 *.tutorialspoint.com
@@ -301,6 +316,7 @@
 *.vimeocdn.com
 *.vuematerial.io
 *.w.org
+*.w3schools.com
 *.wallwiz.com
 *.wallwiz.link
 *.weebly.com
@@ -313,6 +329,7 @@
 *.wikipedia.org
 *.wiktionary.org
 *.windows.net
+*.wizardingworld.com
 *.wordpress.org
 *.wp.com
 *.xbox.com
@@ -320,6 +337,7 @@
 *.yahoo.co.jp
 *.yandex.ru
 *.yjsnpi.nu
+*.youtube-nocookie.com
 *.youtube.com
 *.ytimg.com
 *.zdassets.com
