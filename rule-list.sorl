@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 11/2/2021
+; Date: 01/05/2022
 ; Author: David Hans
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -25,6 +25,7 @@
 *.android.com
 *.ankiweb.net
 *.annihil.us
+*.apester.com
 *.apkmirror.com
 *.apkpure.com
 *.app.link
@@ -33,6 +34,8 @@
 *.archive.org
 *.arenabg.com
 *.arkoselabs.com
+*.arm.com
+*.arm.comundefined
 *.azure.com
 *.azure.net
 *.bandwagonhost.com
@@ -47,7 +50,9 @@
 *.bootstrapcdn.com
 *.branch.io
 *.brew.sh
+*.bteye.com
 *.calhoun.io
+*.camo.githubusercontent.com
 *.ccat.xyz
 *.cdnfonts.com
 *.cdninstagram.com
@@ -62,10 +67,12 @@
 *.codepen.io
 *.codex.net
 *.coggle.it
+*.consensu.org
 *.cookielaw.org
 *.coolors.co
 *.coppersurfer.tk
 *.coursera.org
+*.coveo.com
 *.cplusplus.com
 *.cppreference.com
 *.crashlytics.com
@@ -75,6 +82,7 @@
 *.cyberia.is
 *.davidwalsh.name
 *.dbs.com
+*.deluge-torrent.org
 *.demdex.net
 *.demonii.si
 *.destiel.net
@@ -98,6 +106,7 @@
 *.duolingo.com
 *.dyncdn.me
 *.eagle.cool
+*.emby.media
 *.eu.org
 *.evernote.com
 *.evidon.com
@@ -115,12 +124,14 @@
 *.figma.com
 *.firebaseio.com
 *.firefox.com
+*.flathub.org
 *.flutter.io
 *.forzamotorsport.net
 *.freedownloadmanager.org
 *.freshdesk.com
 *.gannett-cdn.com
 *.geeksforgeeks.org
+*.getsitecontrol.com
 *.gfycat.com
 *.ggpht.com
 *.gigsgigscloud.com
@@ -159,6 +170,7 @@
 *.ibb.co
 *.icons8.com
 *.ieee.org
+*.ifulibl.net
 *.im-apps.net
 *.imagecurl.com
 *.imdb-api.com
@@ -166,10 +178,12 @@
 *.imgur.com
 *.incident57.com
 *.instagram.com
+*.instiengage.com
 *.intel.com
 *.intercom.io
 *.intercomcdn.io
 *.iosninja.io
+*.itsfoss.com
 *.itzmx.com
 *.jetbrains.com
 *.jhu.edu
@@ -191,6 +205,7 @@
 *.listary.com
 *.litix.io
 *.live.com
+*.lksz.me
 *.logitech.com
 *.lucidchart.com
 *.lync.com
@@ -246,6 +261,7 @@
 *.opengapps.org
 *.opensips.org
 *.opentrackr.org
+*.optaim.com
 *.overleaf.com
 *.oxfordlearnersdictionaries.com
 *.page.link
@@ -272,11 +288,14 @@
 *.qualaroo.com
 *.quora.com
 *.quoracdn.net
+*.raindrop.io
 *.rarbg.me
 *.rarbg.to
 *.rarbgaccess.org
+*.ravenjs.com
 *.raw.githubusercontent.com
 *.rawgit.com
+*.rclone.org
 *.readthedocs.org
 *.realsrv.com
 *.redd.it
@@ -308,6 +327,7 @@
 *.stripe.com
 *.swagger.io
 *.symantec.com
+*.t.me
 *.tapad.com
 *.teamgantt.com
 *.teamviewer.com
@@ -327,6 +347,7 @@
 *.tiny-vps.com
 *.tivpn.com
 *.tokyo.zhongdongy.com
+*.torlock.com
 *.torproject.org
 *.trafficfactory.biz
 *.transfonter.org
@@ -338,6 +359,7 @@
 *.typekit.net
 *.typora.io
 *.ubearcn.com
+*.ubuntu.com
 *.udemy.com
 *.udemycdn.com
 *.unlockboot.com
@@ -384,8 +406,8 @@
 *.youtube-nocookie.com
 *.youtube.com
 *.ytimg.com
+*.yts.mx
 *.zdassets.com
 *.zendesk.com
 *.zopim.com
 *.zorincdn.com
-*aria2.zhongdongy.com
