@@ -2,6 +2,7 @@
 ; Require: SwitchyOmega >= 2.3.2
 ; Date: 01/05/2022
 ; Author: David Hans
+; Description: All links collected from Internet. 
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 *.1password.com
@@ -36,6 +37,8 @@
 *.arkoselabs.com
 *.arm.com
 *.arm.comundefined
+*.askubuntu.com
+*.avatars.githubusercontent.com
 *.azure.com
 *.azure.net
 *.bandwagonhost.com
@@ -58,6 +61,7 @@
 *.cdninstagram.com
 *.chocolatey.org
 *.chrisk91.me
+*.chromium.org
 *.clouddrive.site
 *.cloudflare.com
 *.cloudfront.net
@@ -146,6 +150,8 @@
 *.gitlab.com
 *.gitlab.net
 *.gmail.com
+*.gna.org
+*.gnome.org
 *.godaddy.com
 *.google-analytics.com
 *.google.com
@@ -153,6 +159,7 @@
 *.googleadservices.com
 *.googleapis.com
 *.googlecode.com
+*.googlesource.com
 *.googletagmanager.com
 *.googleusercontent.com
 *.googlevideo.com
@@ -196,6 +203,7 @@
 *.kopernio.com
 *.kxcdn.com
 *.lanta-net.ru
+*.lateweb.info
 *.lbry.org
 *.leechers-paradise.org
 *.leetcode.com
@@ -206,6 +214,7 @@
 *.litix.io
 *.live.com
 *.lksz.me
+*.loader.to
 *.logitech.com
 *.lucidchart.com
 *.lync.com
@@ -217,6 +226,8 @@
 *.mb3admin.com
 *.media.net
 *.medium.com
+*.mega.co.nz
+*.mega.nz
 *.megamoov.com
 *.merriam-webster.com
 *.microsoft.com
@@ -318,6 +329,7 @@
 *.skype.com
 *.slack.com
 *.sourceforge.net
+*.sstatic.net
 *.stackedit.io
 *.stackoverflow.com
 *.staruml.io
@@ -362,6 +374,7 @@
 *.ubuntu.com
 *.udemy.com
 *.udemycdn.com
+*.unicode-table.com
 *.unlockboot.com
 *.unpkg.com
 *.upeer.me
@@ -393,6 +406,7 @@
 *.wiktionary.org
 *.windows.net
 *.wizardingworld.com
+*.wordpress.com
 *.wordpress.org
 *.wowchemy.com
 *.wp.com
