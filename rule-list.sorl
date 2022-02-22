@@ -84,6 +84,7 @@
 *.ctan.org
 *.cvbox.org
 *.cyberia.is
+*.data-to-viz.com
 *.davidwalsh.name
 *.dbs.com
 *.deluge-torrent.org
@@ -93,6 +94,7 @@
 *.desync.com
 *.devmate.com
 *.dictionary.com
+*.dinus.ac.id
 *.discord.com
 *.discordapp.com
 *.discordapp.net
@@ -172,12 +174,14 @@
 *.hdslb.com
 *.here.com
 *.hereapi.com
+*.hitun.io
 *.hostgator.com
 *.i-mobile.co.jp
 *.ibb.co
 *.icons8.com
 *.ieee.org
 *.ifulibl.net
+*.illinois.edu
 *.im-apps.net
 *.imagecurl.com
 *.imdb-api.com
@@ -219,6 +223,8 @@
 *.lucidchart.com
 *.lync.com
 *.macpaw.com
+*.mail-archive.com
+*.mailchimp.com
 *.mailu.io
 *.manichord.com
 *.mathworks.com
@@ -271,6 +277,7 @@
 *.openbittorrent.com
 *.opengapps.org
 *.opensips.org
+*.opensubtitles.org
 *.opentrackr.org
 *.optaim.com
 *.overleaf.com
@@ -295,6 +302,7 @@
 *.pub.dev
 *.pubmine.com
 *.px-cloud.net
+*.pypi.org
 *.qt.io
 *.qualaroo.com
 *.quora.com
@@ -307,6 +315,7 @@
 *.raw.githubusercontent.com
 *.rawgit.com
 *.rclone.org
+*.readthedocs.io
 *.readthedocs.org
 *.realsrv.com
 *.redd.it
@@ -316,12 +325,14 @@
 *.reeder.app
 *.replit.com
 *.rlcdn.com
+*.rocketcdn.me
 *.rsms.me
 *.s-microsoft.com
 *.s-nbcnews.com
 *.sail-personalize.com
 *.sci-hub.tw
 *.scoop.sh
+*.secureservercdn.net
 *.sentry-cdn.com
 *.setapp.com
 *.sharepointonline.com
@@ -329,6 +340,7 @@
 *.skype.com
 *.slack.com
 *.sourceforge.net
+*.sqlalchemy.org
 *.sstatic.net
 *.stackedit.io
 *.stackoverflow.com
@@ -354,6 +366,7 @@
 *.themovieblog.com
 *.thepirate-bay3.org
 *.thepiratebay.org
+*.thequestionsnetwork.org
 *.thetvdb.com
 *.ticketplus.tk
 *.tiny-vps.com
@@ -377,6 +390,7 @@
 *.unicode-table.com
 *.unlockboot.com
 *.unpkg.com
+*.unsplash.com
 *.upeer.me
 *.uptodown.com
 *.utorrent.com
@@ -425,3 +439,4 @@
 *.zendesk.com
 *.zopim.com
 *.zorincdn.com
+eastwind.zhongdongy.com
