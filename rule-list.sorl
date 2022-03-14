@@ -19,6 +19,8 @@
 *.airbnb.io
 *.ajax.googleapis.com
 *.akamaihd.net
+*.akstat.io
+*.alternativeto.net
 *.amazon-adsystem.com
 *.amazonaws.com
 *.amgdgt.com
@@ -48,6 +50,7 @@
 *.bit.ly
 *.blender.org
 *.blogger.com
+*.blogspot.com
 *.bluehost.com
 *.bluestacks.com
 *.bootstrapcdn.com
@@ -86,6 +89,7 @@
 *.cvbox.org
 *.cyberia.is
 *.data-to-viz.com
+*.daum.net
 *.davidwalsh.name
 *.dbs.com
 *.deluge-torrent.org
@@ -113,6 +117,7 @@
 *.duolingo.com
 *.dyncdn.me
 *.eagle.cool
+*.ebc.net.tw
 *.emby.media
 *.eu.org
 *.evernote.com
@@ -305,6 +310,7 @@
 *.pubmine.com
 *.px-cloud.net
 *.pypi.org
+*.python.org
 *.pythontutorial.net
 *.qt.io
 *.qualaroo.com
@@ -385,7 +391,9 @@
 *.twimg.com
 *.twitter.com
 *.typekit.net
+*.typography.com
 *.typora.io
+*.u.tools
 *.ubearcn.com
 *.ubuntu.com
 *.udemy.com
@@ -402,6 +410,7 @@
 *.videvo.net
 *.vimeo.com
 *.vimeocdn.com
+*.vmware.com
 *.vuematerial.io
 *.vultr.com
 *.w.org
