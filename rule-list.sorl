@@ -12,6 +12,7 @@
 *.64clouds.com
 *.911997.xyz
 *.acm.org
+*.adnxs.com
 *.adobe.com
 *.adobecces.com
 *.adobeccstatic.com
@@ -24,6 +25,7 @@
 *.amazon-adsystem.com
 *.amazonaws.com
 *.amgdgt.com
+*.amplitude.com
 *.amplitude.com
 *.android.com
 *.ankiweb.net
@@ -46,8 +48,10 @@
 *.bandwagonhost.com
 *.behance.net
 *.betrad.com
+*.bing.com
 *.bintray.com
 *.bit.ly
+*.bitcoin.org
 *.blender.org
 *.blogger.com
 *.blogspot.com
@@ -68,6 +72,7 @@
 *.clouddrive.site
 *.cloudflare.com
 *.cloudfront.net
+*.cloudfront.net
 *.cloudinary.com
 *.clrstm.com
 *.codekitapp.com
@@ -75,6 +80,8 @@
 *.codex.net
 *.codezen.io
 *.coggle.it
+*.coggle.it
+*.coingecko.com
 *.consensu.org
 *.cookielaw.org
 *.coolors.co
@@ -94,6 +101,7 @@
 *.dbs.com
 *.deluge-torrent.org
 *.demdex.net
+*.demdex.net
 *.demonii.si
 *.destiel.net
 *.desync.com
@@ -105,6 +113,7 @@
 *.discordapp.net
 *.discourse-cdn.com
 *.disqus.com
+*.disquscdn.com
 *.disquscdn.com
 *.dlsite.com
 *.dotomi.com
@@ -162,6 +171,8 @@
 *.gnome.org
 *.godaddy.com
 *.google-analytics.com
+*.google-analytics.com
+*.google.cn
 *.google.com
 *.google.com.hk
 *.googleadservices.com
@@ -173,6 +184,7 @@
 *.googlevideo.com
 *.gov.hk
 *.gravatar.com
+*.gstatic.com
 *.gstatic.com
 *.gwallet.com
 *.harry.lu
@@ -223,6 +235,7 @@
 *.listary.com
 *.litix.io
 *.live.com
+*.live.com
 *.lksz.me
 *.loader.to
 *.logitech.com
@@ -253,6 +266,7 @@
 *.mozilla.org
 *.msauth.net
 *.msecnd.net
+*.msftauth.net
 *.msocdn.com
 *.myfonts.net
 *.nbcnews.com
@@ -262,6 +276,7 @@
 *.nimg.jp
 *.nocookie.net
 *.noip.com
+*.nomics.com
 *.nordvpn.com
 *.notion.so
 *.notionavatars.com
