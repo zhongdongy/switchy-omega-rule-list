@@ -5,6 +5,7 @@
 ; Description: All links collected from Internet. 
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+
 *.1password.com
 *.233blog.com
 *.33across.com
@@ -117,6 +118,7 @@
 *.disqus.com
 *.disquscdn.com
 *.dlsite.com
+*.dns.cloudflare.com
 *.dotomi.com
 *.doubleclick.net
 *.dreamhost.com
@@ -147,11 +149,14 @@
 *.firebaseio.com
 *.firefox.com
 *.flathub.org
+*.flightaware.com
 *.flutter.io
 *.forzamotorsport.net
 *.freedownloadmanager.org
 *.freshdesk.com
+*.future-task.blue
 *.future-task.com
+*.future.blue
 *.gannett-cdn.com
 *.gaofuwu.org
 *.geeksforgeeks.org
@@ -194,7 +199,6 @@
 *.here.com
 *.hereapi.com
 *.hitun.io
-*.hitun.io
 *.hostgator.com
 *.i-mobile.co.jp
 *.ibb.co
@@ -215,6 +219,7 @@
 *.intercomcdn.io
 *.internetdownloadmanager.com
 *.iosninja.io
+*.ipaddress.com
 *.itsfoss.com
 *.itzmx.com
 *.jetbrains.com
@@ -233,8 +238,10 @@
 *.lbry.org
 *.leechers-paradise.org
 *.leetcode.com
+*.libtorrent.org
 *.licdn.com
 *.lineageos.org
+*.linkedin.com
 *.linphone.org
 *.listary.com
 *.litix.io
@@ -246,6 +253,7 @@
 *.lucidchart.com
 *.lync.com
 *.macpaw.com
+*.magiccopy.app
 *.mail-archive.com
 *.mailchimp.com
 *.mailu.io
@@ -267,6 +275,7 @@
 *.mmh.whatsapp.net
 *.moeking.me
 *.mongodb.com
+*.mongodb.net
 *.motionarray.com
 *.mozilla.net
 *.mozilla.org
@@ -274,6 +283,7 @@
 *.msecnd.net
 *.msftauth.net
 *.msocdn.com
+*.music.youtube.com
 *.myendnoteweb.com
 *.myfonts.net
 *.nalgebra.org
@@ -291,6 +301,10 @@
 *.notionavatars.com
 *.npmjs.com
 *.nr-data.net
+*.ns.cloudflare.com
+*.ns1.hitun.io
+*.ns2.hitun.io
+*.ns3.hitun.io
 *.nuxeo.org
 *.nvidia.com
 *.nytimes.com
@@ -319,6 +333,7 @@
 *.page.link
 *.paragon-software.com
 *.parallels.com
+*.paypal.com
 *.pc6.com
 *.pdftron.com
 *.phncdn.com
@@ -336,16 +351,19 @@
 *.producthunt.com
 *.proxifier.com
 *.proxyrarbg.org
+*.pterclub.com
 *.pub.dev
 *.pubmine.com
 *.px-cloud.net
 *.pypi.org
 *.python.org
 *.pythontutorial.net
+*.qbittorrent.org
 *.qt.io
 *.qualaroo.com
 *.quora.com
 *.quoracdn.net
+*.radarbox.com
 *.raindrop.io
 *.rarbg.me
 *.rarbg.to
@@ -357,11 +375,13 @@
 *.readthedocs.io
 *.readthedocs.org
 *.realsrv.com
+*.realtoughcandy.com
 *.redd.it
 *.reddit.com
 *.redditmedia.com
 *.redditstatic.com
 *.reeder.app
+*.registry-1.docker.io
 *.replit.com
 *.reurl.cc
 *.rlcdn.com
@@ -394,8 +414,10 @@
 *.stripe.com
 *.swagger.io
 *.symantec.com
+*.system76.com
 *.t.me
 *.tapad.com
+*.tawk.to
 *.teamgantt.com
 *.teamviewer.com
 *.telegram.org
@@ -423,6 +445,8 @@
 *.transfonter.org
 *.trello.com
 *.trellocdn.com
+*.tronscan.io
+*.tronscan.org
 *.tutorialspoint.com
 *.twimg.com
 *.twitter.com
@@ -449,7 +473,6 @@
 *.vimeocdn.com
 *.vmware.com
 *.vuematerial.io
-*.vultr.com
 *.vultr.com
 *.w.org
 *.w3schools.com
@@ -490,4 +513,3 @@
 *.zendesk.com
 *.zopim.com
 *.zorincdn.com
-eastwind.zhongdongy.com
