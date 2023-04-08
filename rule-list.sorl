@@ -51,6 +51,8 @@
 *.bandwagonhost.com
 *.behance.net
 *.betrad.com
+*.bilibili.com
+*.bilivideo.com
 *.bing.com
 *.bintray.com
 *.bit.ly
@@ -397,6 +399,7 @@
 *.rust-lang.org
 *.s-microsoft.com
 *.s-nbcnews.com
+*.s1.hdslb.com
 *.sail-personalize.com
 *.sci-hub.tw
 *.scoop.sh
@@ -423,6 +426,7 @@
 *.swagger.io
 *.symantec.com
 *.system76.com
+*.szbdyd.com
 *.t.co
 *.t.me
 *.tapad.com
