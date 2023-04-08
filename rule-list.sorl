@@ -19,8 +19,6 @@
 *.adobelogin.com
 *.airbnb.io
 *.ajax.googleapis.com
-*.akamaihd.net
-*.akamaized.net
 *.akstat.io
 *.alternativeto.net
 *.amazon-adsystem.com
@@ -51,8 +49,6 @@
 *.bandwagonhost.com
 *.behance.net
 *.betrad.com
-*.bilibili.com
-*.bilivideo.com
 *.bing.com
 *.bintray.com
 *.bit.ly
@@ -200,7 +196,6 @@
 *.gwallet.com
 *.harry.lu
 *.hcaptcha.com
-*.hdslb.com
 *.here.com
 *.hereapi.com
 *.hitun.io
@@ -399,7 +394,6 @@
 *.rust-lang.org
 *.s-microsoft.com
 *.s-nbcnews.com
-*.s1.hdslb.com
 *.sail-personalize.com
 *.sci-hub.tw
 *.scoop.sh
@@ -426,7 +420,6 @@
 *.swagger.io
 *.symantec.com
 *.system76.com
-*.szbdyd.com
 *.t.co
 *.t.me
 *.tapad.com
