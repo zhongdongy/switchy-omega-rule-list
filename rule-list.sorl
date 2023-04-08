@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 27/12/2022
+; Date: 09/04/2023
 ; Author: David Hans
 ; Description: All links collected from Internet. 
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
@@ -31,6 +31,7 @@
 *.ankiweb.net
 *.annihil.us
 *.apester.com
+*.api.tabby.sh
 *.apkmirror.com
 *.apkpure.com
 *.app.link
@@ -119,6 +120,7 @@
 *.disquscdn.com
 *.dlsite.com
 *.dns.cloudflare.com
+*.docs.midjourney.com
 *.dotomi.com
 *.doubleclick.net
 *.dreamhost.com
@@ -167,6 +169,7 @@
 *.github.blog
 *.github.com
 *.github.community
+*.github.dev
 *.github.io
 *.githubapp.com
 *.githubassets.com
@@ -270,6 +273,7 @@
 *.merriam-webster.com
 *.microsoft.com
 *.microsoftonline.com
+*.midjourney.com
 *.min.news
 *.miuipro.by
 *.ml314.com
@@ -398,6 +402,7 @@
 *.scoop.sh
 *.secureservercdn.net
 *.sentry-cdn.com
+*.service10.ieee.org
 *.setapp.com
 *.sharepointonline.com
 *.skyfonts.com
@@ -477,6 +482,8 @@
 *.vimeo.com
 *.vimeocdn.com
 *.vmware.com
+*.vscode-cdn.net
+*.vscode-unpkg.net
 *.vuematerial.io
 *.vultr.com
 *.w.org
