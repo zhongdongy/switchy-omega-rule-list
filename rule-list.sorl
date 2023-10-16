@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 09/04/2023
+; Date: 16/10/2023
 ; Author: David Hans
 ; Description: All links collected from Internet. 
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
@@ -19,7 +19,10 @@
 *.adobelogin.com
 *.airbnb.io
 *.ajax.googleapis.com
+*.akamaihd.net
+*.akamaized.net
 *.akstat.io
+*.alicdn.com +direct
 *.alternativeto.net
 *.amazon-adsystem.com
 *.amazonaws.com
@@ -43,6 +46,7 @@
 *.arm.comundefined
 *.askubuntu.com
 *.aspnetcdn.com
+*.atlassian.com
 *.avatars.githubusercontent.com
 *.azure.com
 *.azure.net
@@ -93,7 +97,9 @@
 *.cplusplus.com
 *.cppreference.com
 *.crashlytics.com
+*.creativecommons.org
 *.crowdtwist.com
+*.csdn.net +direct
 *.ctan.org
 *.cvbox.org
 *.cyberia.is
@@ -151,6 +157,7 @@
 *.flathub.org
 *.flightaware.com
 *.flutter.io
+*.fontawesome.com
 *.forzamotorsport.net
 *.freedownloadmanager.org
 *.freshdesk.com
@@ -196,10 +203,12 @@
 *.gwallet.com
 *.harry.lu
 *.hcaptcha.com
+*.hdslb.com
 *.here.com
 *.hereapi.com
 *.hitun.io
 *.hostgator.com
+*.huggingface.co
 *.i-mobile.co.jp
 *.ibb.co
 *.icons8.com
@@ -253,6 +262,7 @@
 *.lucidchart.com
 *.lync.com
 *.macpaw.com
+*.madewithslint.com
 *.maestral.app
 *.magiccopy.app
 *.mail-archive.com
@@ -265,6 +275,7 @@
 *.media.net
 *.medium.com
 *.mega.co.nz
+*.mega.io
 *.mega.nz
 *.megamoov.com
 *.merriam-webster.com
@@ -275,6 +286,7 @@
 *.miuipro.by
 *.ml314.com
 *.mmh.whatsapp.net
+*.mobileread.com
 *.moeking.me
 *.mongodb.com
 *.mongodb.net
@@ -401,10 +413,12 @@
 *.sentry-cdn.com
 *.service10.ieee.org
 *.setapp.com
+*.setupcmp.com
 *.sharepointonline.com
 *.skyfonts.com
 *.skype.com
 *.slack.com
+*.slint.dev
 *.sourceforge.net
 *.sqlalchemy.org
 *.sstatic.net
