@@ -24,13 +24,16 @@
 *.akstat.io
 *.alicdn.com +direct
 *.alternativeto.net
+*.amazingtalker.com
 *.amazon-adsystem.com
+*.amazon.com
 *.amazonaws.com
 *.amgdgt.com
 *.amplitude.com
 *.android.com
 *.ankiweb.net
 *.annihil.us
+*.anthropic.com
 *.apester.com
 *.api.tabby.sh
 *.apkmirror.com
@@ -92,6 +95,7 @@
 *.cookielaw.org
 *.coolors.co
 *.coppersurfer.tk
+*.counterpointresearch.com
 *.coursera.org
 *.coveo.com
 *.cplusplus.com
@@ -247,6 +251,7 @@
 *.lbry.org
 *.leechers-paradise.org
 *.leetcode.com
+*.libsyn.com
 *.libtorrent.org
 *.licdn.com
 *.lineageos.org
